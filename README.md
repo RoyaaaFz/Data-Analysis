@@ -1,2 +1,2 @@
 # Data-Analysis
-##### This is a data analysis and visualization repository.
+##### This is a repository for data analysis and data visualization.
